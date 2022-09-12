@@ -1,0 +1,2 @@
+C:\Users\rckro\Desktop\Software Developer\WhatChaGonnaDo\WhatChaGonnaDo\obj\Debug\whatchagonnado.esproj.SuggestedBindingRedirects.cache
+C:\Users\rckro\Desktop\Software Developer\WhatChaGonnaDo\WhatChaGonnaDo\obj\Debug\whatchagonnado.esproj.CoreCompileInputs.cache
